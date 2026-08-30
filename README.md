@@ -12,3 +12,5 @@ y_diff = y2 - y1
 sum_of_squares = math.pow(x_diff, 2) + math.pow(y_diff, 2)
 distance = math.sqrt(sum_of_squares)
 
+print(f"\nThe distance between the two points is: {distance:.2f}")
+
