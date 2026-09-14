@@ -18,3 +18,6 @@ print(f"\nThe distance between the two points is: {distance:.2f}")
 
 # REFLECTION:
 # Using a library is more practical because it provides pre-tested, highly optimized functions, saving lots of time and reducing coding errors. In this activity, instead of me writing complex custom algorithms to manually approximate a square root, I could solve the geometric formula efficiently in a single line of code. Without the math library, building a reliable square root function from scratch would make the program unnecessarily long and difficult to debug.
+
+Commit 1 (from Module D) - Added distance calculator with comments and README
+Commit 2 (from this module) - Added a text in line 5 for more clarification
