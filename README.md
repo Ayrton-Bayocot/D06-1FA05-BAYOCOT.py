@@ -1,6 +1,8 @@
+#  Let's get the x and y coordinates for both points from the user
+
 import math
 
-#  Let's get the x and y coordinates for both points from the user
+#  If the user enters a valid number string, float converts it.
 x1 = float(input("Enter x1: "))
 y1 = float(input("Enter y1: "))
 x2 = float(input("Enter x2: "))
